@@ -51,6 +51,7 @@ const NavbarFour = () => {
                   src="/images/quantum-logo-2.png"
                   className="optional-logo"
                   alt="logo"
+                  style={{ width: "70px" }}
                 />
               </Link>
 
