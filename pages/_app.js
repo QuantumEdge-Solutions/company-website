@@ -10,7 +10,7 @@ import "swiper/css";
 import "swiper/css/bundle";
 
 // Global Styles
-import "../styles/style.css";
+import "../styles/style.scss";
 import "../styles/responsive.css";
 
 import Head from "next/head";

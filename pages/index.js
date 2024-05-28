@@ -1,6 +1,3 @@
-
-
-
 import React from "react";
 import NavbarFour from "../components/Layouts/NavbarFour";
 import MainBanner from "../components/HomeThree/MainBanner";
