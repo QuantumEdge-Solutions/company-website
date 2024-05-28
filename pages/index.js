@@ -1,39 +1,48 @@
+
+
+
 import React from "react";
-import Navbar from "../components/Layouts/Navbar";
-import MainBanner from "../components/HomeOne/MainBanner";
-import About from "../components/HomeOne/About";
-import Services from "../components/HomeOne/Services";
-import Webinar from "../components/HomeOne/Webinar";
-import PartnerContent from "../components/Common/PartnerContent";
-import FeedbackSlider from "../components/Common/FeedbackSlider";
-import PricingCard from "../components/Common/PricingCard";
+import NavbarFour from "../components/Layouts/NavbarFour";
+import MainBanner from "../components/HomeThree/MainBanner";
+import OurFeaturedSolutions from "../components/HomeThree/OurFeaturedSolutions";
+import AboutUs from "../components/HomeThree/AboutUs";
+import Services from "../components/HomeThree/Services";
+import FunFacts from "../components/HomeThree/FunFacts";
+import Projects from "../components/HomeThree/Projects";
+import OurPricingPlan from "../components/HomeThree/OurPricingPlan";
+import Testimonials from "../components/HomeThree/Testimonials";
 import BlogPost from "../components/Common/BlogPost";
-import FreeTrialForm from "../components/Common/FreeTrialForm";
+import FreeTrialArea from "../components/Common/FreeTrialArea";
+import PartnerSlider from "../components/Common/PartnerSlider";
 import Footer from "../components/Layouts/Footer";
 
 const Index = () => {
   return (
     <>
-      <Navbar />
+      <NavbarFour />
 
       <MainBanner />
 
-      <About />
+      <OurFeaturedSolutions />
+
+      <AboutUs />
 
       <Services />
 
-      <Webinar />
+      <FunFacts />
 
-      <PartnerContent />
+      <Projects />
 
-      <FeedbackSlider />
+      <OurPricingPlan />
 
-      <PricingCard />
+      <Testimonials />
 
       <BlogPost />
 
-      <FreeTrialForm />
+      <FreeTrialArea />
       
+      <PartnerSlider />
+
       <Footer />
     </>
   );
