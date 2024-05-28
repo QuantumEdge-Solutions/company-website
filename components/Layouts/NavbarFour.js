@@ -48,7 +48,7 @@ const NavbarFour = () => {
             <nav className="navbar navbar-expand-md navbar-light">
               <Link href="/" className="navbar-brand">
                 <img
-                  src="/images/black-logo.png"
+                  src="/images/quantum-logo-2.png"
                   className="optional-logo"
                   alt="logo"
                 />
