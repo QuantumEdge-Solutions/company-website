@@ -21,15 +21,12 @@ const OurFeaturedSolutions = () => {
                   <img src="/images/icon1.png" alt="image" />
                 </div>
                 <h3>
-                  <Link href="/service-details">Robotic Automation</Link>
+                  <Link href="/service-details">Mobile & Web Development</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor consectetur adipiscing elit, sed do eiusmod
-                  tempor incididunt ut labore. Ut enim ad minim veniam.
+                Experience our tailored mobile and web solutions, including custom development, responsive design, API integration,
+                 and intuitive UX/UI. Elevate your digital presence with our comprehensive services.
                 </p>
-                <Link href="/service-details" className="learn-more-btn">
-                  Read More
-                </Link>
               </div>
             </div>
 
@@ -45,9 +42,6 @@ const OurFeaturedSolutions = () => {
                   Lorem ipsum dolor consectetur adipiscing elit, sed do eiusmod
                   tempor incididunt ut labore. Ut enim ad minim veniam.
                 </p>
-                <Link href="/service-details" className="learn-more-btn">
-                  Read More
-                </Link>
               </div>
             </div>
 
@@ -57,15 +51,11 @@ const OurFeaturedSolutions = () => {
                   <img src="/images/icon3.png" alt="image" />
                 </div>
                 <h3>
-                  <Link href="/service-details">Cognitive Engagement</Link>
+                  <Link href="/service-details">Generative AI</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor consectetur adipiscing elit, sed do eiusmod
-                  tempor incididunt ut labore. Ut enim ad minim veniam.
+                Specializing in Generative AI and Chatbots, we harness cutting-edge technology to simplify and enhance creative processes. Our solutions seamlessly turn your ideas into reality, empowering businesses to innovate and thrive in today's dynamic market landscape.
                 </p>
-                <Link href="/service-details" className="learn-more-btn">
-                  Read More
-                </Link>
               </div>
             </div>
           </div>
