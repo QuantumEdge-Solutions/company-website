@@ -14,7 +14,7 @@ const MainBanner = () => {
                   data-aos-duration="1200"
                   data-aos-delay="200"
                 >
-                  World’s Leading Machine Learning Company
+                  AI Powered Software Development Solutions
                 </h1>
 
                 <p
@@ -22,10 +22,12 @@ const MainBanner = () => {
                   data-aos-duration="1200"
                   data-aos-delay="400"
                 >
-                  ML today are able to supply needful of help, information, and
-                  positive experience of maintaining intimacy with customers.
-                  Eventually, chatbot ideas bring a pleasant experience of all
-                  these qualities into the conversation.
+                  {/* At 3pointO, we're committed to providing our customers with the most up-to-date AI solutions,
+                   ensuring your business stays ahead of the curve and reaps the full benefits of AI advancements.
+                    */}
+                    Transforming your vision with cutting-edge technology, we specialize in tailored software development
+                      and innovative AI solutions. Our scalable SAAS development enhances your digital presence and 
+                     streamlines business processes, driving growth and innovation. Let's build the future today.
                 </p>
 
                 <div
