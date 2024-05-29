@@ -35,7 +35,7 @@ const MainBanner = () => {
                   data-aos-delay="600"
                 >
                   <Link href="https://calendly.com/saeedarshad/" className="btn btn-primary" target="_blank">
-                    Schedule a Demo
+                    Book a Call
                   </Link>
                   <Link href="mailto:m.saeedarshad95@gmail.com" className="btn btn-secondary" style={{'margin-left': '0.5rem'}}>
                     Contact Us

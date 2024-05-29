@@ -85,7 +85,7 @@ const NavbarFour = () => {
                 {/* others-options */}
                 <div className="others-options">
                   <Link href="https://calendly.com/saeedarshad/" className="btn btn-primary" target="_blank">
-                    Schedule a Demo
+                    Book a Call
                   </Link>
                 </div>
               </div>
