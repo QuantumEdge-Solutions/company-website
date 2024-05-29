@@ -22,21 +22,15 @@ const Index = () => {
 
       <OurFeaturedSolutions />
 
-      <AboutUs />
-
       <Services />
 
       <FunFacts />
 
       <Projects />
 
-      <OurPricingPlan />
-
       <Testimonials />
 
       <BlogPost />
-
-      <FreeTrialArea />
       
       <PartnerSlider />
 
