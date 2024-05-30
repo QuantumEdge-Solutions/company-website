@@ -55,8 +55,8 @@ const Services = () => {
                   <Link href="/service-details">Generative AI</Link>
                 </h3>
                 <p>
-                Specializing in Generative AI and Chatbots, 
-                we streamline creative workflows and transform ideas into reality, enabling businesses to innovate and excel.
+                Specializing in Generative AI and Chatbots, we streamline creative workflows and transform ideas into reality, 
+                enabling businesses to innovate, stay ahead of the curve, and excel in their respective markets.
                 </p>
               </div>
             </div>

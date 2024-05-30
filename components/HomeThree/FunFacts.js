@@ -7,10 +7,10 @@ const FunFacts = () => {
       <div className="fun-facts-area ptb-110">
         <div className="container">
           <div className="section-title">
-            <h2>We completed 2500+ Projects Yearly Successfully & counting</h2>
+            <h2>We completed 50+ Projects Yearly Successfully & counting</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            We have developed a diverse range of projects over the past year, showcasing our 
+            commitment to excellence and progres
             </p>
           </div>
 
@@ -18,18 +18,18 @@ const FunFacts = () => {
             <div className="col-lg-3 col-6 col-sm-3 col-md-3">
               <div className="single-funfacts">
                 <h3>
-                  5000 <span className="sign-icon">+</span>
+                  30 <span className="sign-icon">+</span>
                 </h3>
-                <p>Downloaded</p>
+                <p>Completed</p>
               </div>
             </div>
 
             <div className="col-lg-3 col-6 col-sm-3 col-md-3">
               <div className="single-funfacts">
                 <h3>
-                  3000 <span className="sign-icon">+</span>
+                  17 <span className="sign-icon">+</span>
                 </h3>
-                <p>Feedback</p>
+                <p>Feedbacks</p>
               </div>
             </div>
 
@@ -56,8 +56,8 @@ const FunFacts = () => {
             <h3>Have any question about us?</h3>
             <p>Don't hesitate to contact us.</p>
 
-            <Link href="/contact" className="btn btn-primary">
-              Contact Us<span></span>
+            <Link href="mailto:m.saeedarshad95@gmail.com" className="btn btn-primary" style={{'margin-left': '0.5rem'}}>
+              Contact Us
             </Link>
           </div>
         </div>
