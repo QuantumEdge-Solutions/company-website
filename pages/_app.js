@@ -27,7 +27,7 @@ function MyApp({ Component, pageProps }) {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
-        <title>Quantum Edge Solutions</title>
+        <title>Quantum Edge Technologies</title>
       </Head>
 
       <Component {...pageProps} />

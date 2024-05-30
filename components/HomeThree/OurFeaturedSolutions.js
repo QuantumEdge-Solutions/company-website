@@ -9,8 +9,7 @@ const OurFeaturedSolutions = () => {
           <div className="section-title">
             <h2>Our Featured Solutions</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            QuantumEdge Technologies excels in AI solutions and brings expertise in the following domains:
             </p>
           </div>
 
@@ -25,7 +24,7 @@ const OurFeaturedSolutions = () => {
                 </h3>
                 <p>
                 Experience our tailored mobile and web solutions, including custom development, responsive design, API integration,
-                 and intuitive UX/UI. Elevate your digital presence with our comprehensive services.
+                and intuitive UX/UI. Elevate your digital presence with our comprehensive services.
                 </p>
               </div>
             </div>
@@ -39,8 +38,8 @@ const OurFeaturedSolutions = () => {
                   <Link href="/service-details">Machine Learning</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor consectetur adipiscing elit, sed do eiusmod
-                  tempor incididunt ut labore. Ut enim ad minim veniam.
+                We provide tailored machine learning solutions, including predictive analytics, NLP, 
+                and computer vision, to transform your data into actionable insights and drive business growth.
                 </p>
               </div>
             </div>
@@ -54,7 +53,8 @@ const OurFeaturedSolutions = () => {
                   <Link href="/service-details">Generative AI</Link>
                 </h3>
                 <p>
-                Specializing in Generative AI and Chatbots, we harness cutting-edge technology to simplify and enhance creative processes. Our solutions seamlessly turn your ideas into reality, empowering businesses to innovate and thrive in today's dynamic market landscape.
+                Specializing in Generative AI and Chatbots, 
+                we streamline creative workflows and transform ideas into reality, enabling businesses to innovate and excel.
                 </p>
               </div>
             </div>

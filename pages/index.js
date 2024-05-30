@@ -20,8 +20,6 @@ const Index = () => {
 
       <MainBanner />
 
-      <OurFeaturedSolutions />
-
       <Services />
 
       <FunFacts />
