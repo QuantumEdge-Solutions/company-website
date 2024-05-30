@@ -23,10 +23,11 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <meta
-          name="viewport"
-          content="width=device-width, initial-scale=1, shrink-to-fit=no"
-        />
+        <meta property="og:title" content="Quantum Edge Technologies" />
+        <meta property="og:description" content="We provide AI solutions" />
+        <meta property="og:image" content="/images/icon1.png" />
+        <meta property="og:url" content="https://quantumedge.netlify.app/" />
+        <meta property="og:type" content="website" />
         <title>Quantum Edge Technologies</title>
       </Head>
 
