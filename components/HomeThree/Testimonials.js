@@ -29,12 +29,12 @@ const Testimonials = () => {
             <SwiperSlide>
               <div className="single-testimonials-item">
                 <div className="client-info">
-                  <img src="/images/author3.jpg" alt="image" />
+                  <img src="/images/willem.jpg" alt="image" />
                   <h3>Willem</h3>
-                  <span>CEO at TaptoConnect</span>
+                  <span>Founder at TaptoConnect</span>
                 </div>
                 <p>
-                The QuantumEdge team was highly communicative, providing regular updates and seeking feedback. They invested time to understand my vision and requirements, which was reflected in the final product. 
+                The QuantumEdge team was highly communicative, providing regular updates and seeking feedback. They invested time to understand my vision and requirements, which was reflected in the final product.
                 I was impressed with their work quality and customer service and would confidently recommend them for AI solutions.
                 </p>
                 <div className="rating">
@@ -50,15 +50,13 @@ const Testimonials = () => {
             <SwiperSlide>
               <div className="single-testimonials-item">
                 <div className="client-info">
-                  <img src="/images/author1.jpg" alt="image" />
-                  <h3>Steven Smith</h3>
-                  <span>CEO at Envato</span>
+                  <img src="/images/avatar.svg" alt="image" />
+                  <h3>Abishek Sharma</h3>
+                  <span>CEO at Visual Stories</span>
                 </div>
                 <p>
-                  Accusantium veritatis dolore ducimus illum, cumque excepturi,
-                  autem rerum illo amet placeat odit corporis! Lorem ipsum dolor
-                  sit amet consectetur, adipisicing elit. Aliquid ullam harum
-                  sit.
+                The project I received from QuantumEdge was outstanding, exactly what I asked for. They showed a high level of professionalism, thoroughly understanding and meeting the requirements. 
+                I look forward to collaborating with them on multiple future projects. I would definitely recommend their services to others.
                 </p>
                 <div className="rating">
                   <i className="fas fa-star"></i>
@@ -73,15 +71,13 @@ const Testimonials = () => {
             <SwiperSlide>
               <div className="single-testimonials-item">
                 <div className="client-info">
-                  <img src="/images/author2.jpg" alt="image" />
-                  <h3>James Eva</h3>
-                  <span>CEO at Envato</span>
+                  <img src="/images/avatar.svg" alt="image" />
+                  <h3>Max Aronsson</h3>
+                  <span>CIO at Nomor</span>
                 </div>
                 <p>
-                  Accusantium veritatis dolore ducimus illum, cumque excepturi,
-                  autem rerum illo amet placeat odit corporis! Lorem ipsum dolor
-                  sit amet consectetur, adipisicing elit. Aliquid ullam harum
-                  sit.
+                Quantum excels in translating intricate designs into intuitive user interfaces, consistently prioritizing user experience. 
+                Their problem-solving skills and collaboration with cross-functional teams underscore their effectiveness in delivering seamless projects.
                 </p>
                 <div className="rating">
                   <i className="fas fa-star"></i>

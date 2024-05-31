@@ -25,7 +25,7 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <meta property="og:title" content="Quantum Edge Technologies" />
         <meta property="og:description" content="We provide AI solutions" />
-        <meta property="og:image" content="/images/icon1.png" />
+        <meta property="og:image" content="https://quantumedge.netlify.app/images/IconOnly_Transparent.png" />
         <meta property="og:url" content="https://quantumedge.netlify.app/" />
         <meta property="og:type" content="website" />
         <title>Quantum Edge Technologies</title>

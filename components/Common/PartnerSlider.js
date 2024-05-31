@@ -5,7 +5,7 @@ import { Autoplay } from "swiper";
 const PartnerSlider = () => {
   return (
     <>
-      <div className="partner-section ptb-110">
+      <div className="partner-section ptb-110" style={{"backgroundColor": "#dee4f3"}}>
         <div className="container">
           <Swiper
             spaceBetween={30}
@@ -34,7 +34,7 @@ const PartnerSlider = () => {
             <SwiperSlide>
               <div className="single-partner-item">
                 <a href="#" target="_blank" rel="noreferrer">
-                  <img src="/images/partner/partner1.png" alt="image" />
+                  <img src="/images/partner/brownlee-icon.png" alt="image" />
                 </a>
               </div>
             </SwiperSlide>
@@ -42,7 +42,7 @@ const PartnerSlider = () => {
             <SwiperSlide>
               <div className="single-partner-item">
                 <a href="#" target="_blank" rel="noreferrer">
-                  <img src="/images/partner/partner2.png" alt="image" />
+                  <img src="/images/partner/quickcard-icon.png" alt="image" />
                 </a>
               </div>
             </SwiperSlide>
@@ -50,7 +50,7 @@ const PartnerSlider = () => {
             <SwiperSlide>
               <div className="single-partner-item">
                 <a href="#" target="_blank" rel="noreferrer">
-                  <img src="/images/partner/partner3.png" alt="image" />
+                  <img src="/images/partner/opermax-icon.png" alt="image" />
                 </a>
               </div>
             </SwiperSlide>
@@ -58,47 +58,7 @@ const PartnerSlider = () => {
             <SwiperSlide>
               <div className="single-partner-item">
                 <a href="#" target="_blank" rel="noreferrer">
-                  <img src="/images/partner/partner4.png" alt="image" />
-                </a>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="single-partner-item">
-                <a href="#" target="_blank" rel="noreferrer">
-                  <img src="/images/partner/partner5.png" alt="image" />
-                </a>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="single-partner-item">
-                <a href="#" target="_blank" rel="noreferrer">
-                  <img src="/images/partner/partner6.png" alt="image" />
-                </a>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="single-partner-item">
-                <a href="#" target="_blank" rel="noreferrer">
-                  <img src="/images/partner/partner1.png" alt="image" />
-                </a>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="single-partner-item">
-                <a href="#" target="_blank" rel="noreferrer">
-                  <img src="/images/partner/partner2.png" alt="image" />
-                </a>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="single-partner-item">
-                <a href="#" target="_blank" rel="noreferrer">
-                  <img src="/images/partner/partner3.png" alt="image" />
+                  <img src="/images/partner/carecloud.png" alt="image" />
                 </a>
               </div>
             </SwiperSlide>

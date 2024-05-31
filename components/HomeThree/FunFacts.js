@@ -7,7 +7,7 @@ const FunFacts = () => {
       <div className="fun-facts-area ptb-110">
         <div className="container">
           <div className="section-title">
-            <h2>We completed 50+ Projects Yearly Successfully & counting</h2>
+            <h2>We completed 30+ Projects Yearly Successfully & counting</h2>
             <p>
             We have developed a diverse range of projects over the past year, showcasing our 
             commitment to excellence and progres
@@ -15,39 +15,21 @@ const FunFacts = () => {
           </div>
 
           <div className="row">
-            <div className="col-lg-3 col-6 col-sm-3 col-md-3">
+            <div className="col-6">
               <div className="single-funfacts">
                 <h3>
-                  30 <span className="sign-icon">+</span>
+                  50 <span className="sign-icon">+</span>
                 </h3>
                 <p>Completed</p>
               </div>
             </div>
 
-            <div className="col-lg-3 col-6 col-sm-3 col-md-3">
+            <div className="col-6">
               <div className="single-funfacts">
                 <h3>
-                  17 <span className="sign-icon">+</span>
+                  5000 <span className="sign-icon">+</span>
                 </h3>
-                <p>Feedbacks</p>
-              </div>
-            </div>
-
-            <div className="col-lg-3 col-6 col-sm-3 col-md-3">
-              <div className="single-funfacts">
-                <h3>
-                  500 <span className="sign-icon">+</span>
-                </h3>
-                <p>Workers</p>
-              </div>
-            </div>
-
-            <div className="col-lg-3 col-6 col-sm-3 col-md-3">
-              <div className="single-funfacts">
-                <h3>
-                  70 <span className="sign-icon">+</span>
-                </h3>
-                <p>Contributors</p>
+                <p>Hours Work</p>
               </div>
             </div>
           </div>
@@ -56,7 +38,7 @@ const FunFacts = () => {
             <h3>Have any question about us?</h3>
             <p>Don't hesitate to contact us.</p>
 
-            <Link href="mailto:m.saeedarshad95@gmail.com" className="btn btn-primary" style={{'margin-left': '0.5rem'}}>
+            <Link href="mailto:m.saeedarshad95@gmail.com" className="btn btn-primary">
               Contact Us
             </Link>
           </div>

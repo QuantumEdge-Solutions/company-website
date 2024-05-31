@@ -40,61 +40,49 @@ const Projects = () => {
           >
             <SwiperSlide>
               <div className="single-projects-box">
-                <img src="/images/projects-img1.jpg" alt="image" />
-
-                <div className="plus-icon">
-                  <Link href="/projects-details">
-                    <span></span>
-                  </Link>
-                </div>
+                <img src="/images/nft-market.png" alt="image" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="single-projects-box">
-                <img src="/images/projects-img2.jpg" alt="image" />
-
-                <div className="plus-icon">
-                  <Link href="/projects-details">
-                    <span></span>
-                  </Link>
-                </div>
+                <img src="/images/nft1.png" alt="image" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="single-projects-box">
-                <img src="/images/projects-img3.jpg" alt="image" />
-
-                <div className="plus-icon">
-                  <Link href="/projects-details">
-                    <span></span>
-                  </Link>
-                </div>
+                <img src="/images/nft2.png" alt="image" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="single-projects-box">
-                <img src="/images/projects-img4.jpg" alt="image" />
-
-                <div className="plus-icon">
-                  <Link href="/projects-details">
-                    <span></span>
-                  </Link>
-                </div>
+                <img src="/images/quickcard.png" alt="image" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="single-projects-box">
-                <img src="/images/projects-img5.jpg" alt="image" />
+                <img src="/images/opermax.png" alt="image" />
+              </div>
+            </SwiperSlide>
 
-                <div className="plus-icon">
-                  <Link href="/projects-details">
-                    <span></span>
-                  </Link>
-                </div>
+            <SwiperSlide>
+              <div className="single-projects-box">
+                <img src="/images/brownlee.png" alt="image" />
+              </div>
+            </SwiperSlide>
+
+            <SwiperSlide>
+              <div className="single-projects-box">
+                <img src="/images/plankton.png" alt="image" />
+              </div>
+            </SwiperSlide>
+
+            <SwiperSlide>
+              <div className="single-projects-box">
+                <img src="/images/visual-stories.png" alt="image" />
               </div>
             </SwiperSlide>
           </Swiper>
