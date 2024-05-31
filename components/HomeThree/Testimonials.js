@@ -30,14 +30,12 @@ const Testimonials = () => {
               <div className="single-testimonials-item">
                 <div className="client-info">
                   <img src="/images/author3.jpg" alt="image" />
-                  <h3>Sarah Taylor</h3>
-                  <span>CEO at Envato</span>
+                  <h3>Willem</h3>
+                  <span>CEO at TaptoConnect</span>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                  Aliquid ullam harum sit. Accusantium veritatis dolore ducimus
-                  illum, cumque excepturi, autem rerum illo amet placeat odit
-                  corporis!
+                The QuantumEdge team was highly communicative, providing regular updates and seeking feedback. They invested time to understand my vision and requirements, which was reflected in the final product. 
+                I was impressed with their work quality and customer service and would confidently recommend them for AI solutions.
                 </p>
                 <div className="rating">
                   <i className="fas fa-star"></i>
