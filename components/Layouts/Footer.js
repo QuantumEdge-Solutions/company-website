@@ -17,21 +17,17 @@ const Footer = () => {
               >
                 <div className="logo">
                   <Link href="/">
-                    <img src="/images/white-logo.png" alt="image" />
+                    <img src="/images/qe.svg" alt="image" 
+                    style={{width: "70px"}}/>
                   </Link>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud.
+                  <p style={{paddingRight: "0px"}}>
+                  Transforming your vision with cutting-edge technology, we specialize in tailored software development and 
+                  innovative AI solutions. Our scalable SAAS development enhances your digital presence and streamlines business 
+                  processes, driving growth and innovation. Let's build the future today.
                   </p>
                 </div>
 
                 <ul className="social">
-                  <li>
-                    <a href="https://www.facebook.com/" target="_blank">
-                      <i className="flaticon-facebook-letter-logo"></i>
-                    </a>
-                  </li>
                   <li>
                     <a href="https://twitter.com/" target="_blank">
                       <i className="flaticon-twitter"></i>
@@ -40,11 +36,6 @@ const Footer = () => {
                   <li>
                     <a href="https://www.instagram.com/" target="_blank">
                       <i className="flaticon-instagram-logo"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://www.youtube.com/" target="_blank">
-                      <i className="flaticon-youtube-play-button"></i>
                     </a>
                   </li>
                 </ul>
@@ -62,25 +53,19 @@ const Footer = () => {
 
                 <ul className="footer-services-list">
                   <li>
-                    <Link href="/service-details">Product Engineering</Link>
+                    <span>Mobile & Web Development</span>
                   </li>
                   <li>
-                    <Link href="/service-details">UX/UI Design</Link>
+                    <span>Machine Learning</span>
                   </li>
                   <li>
-                    <Link href="/service-details">Big Data Analysis</Link>
-                  </li>
-                  <li>
-                    <Link href="/service-details">Desktop Applications</Link>
-                  </li>
-                  <li>
-                    <Link href="/service-details">Mobile Applications</Link>
+                    <span>Generative AI</span>
                   </li>
                 </ul>
               </div>
             </div>
 
-            <div className="col-lg-3 col-md-6 col-sm-6">
+            {/* <div className="col-lg-3 col-md-6 col-sm-6">
               <div 
                 className="single-footer-widget"
                 data-aos="fade-in"
@@ -107,7 +92,7 @@ const Footer = () => {
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> */}
 
             <div className="col-lg-3 col-md-6 col-sm-6">
               <div 
@@ -121,19 +106,15 @@ const Footer = () => {
                 <ul className="footer-contact-list">
                   <li>
                     <span>Address:</span>
-                    2750 Quadra Street <br /> Victoria, Canada
+                    1 Palmerston Circuit <br /> Northern Territory, Australia
                   </li>
                   <li>
                     <span>Email:</span>
-                    bariton@gmail.com
+                    quantumedge@gmail.com
                   </li>
                   <li>
                     <span>Phone:</span>
-                    +44 587 154756
-                  </li>
-                  <li>
-                    <span>Fax:</span>
-                    +44 785 4578964
+                    +61 480 548892
                   </li>
                 </ul>
               </div>
@@ -146,15 +127,15 @@ const Footer = () => {
             <div className="row align-items-center">
               <div className="col-lg-6 col-md-6 col-sm-6">
                 <p>
-                  Copyright &copy;{currentYear} Bariton. All Rights Reserved{" "}
-                  <a href="https://envytheme.com/" target="_blank">
-                    EnvyTheme
+                  Copyright &copy;{currentYear} QuantumEdge Technologies. All Rights Reserved{" "}
+                  <a href="https://quantumedge.netlify.app/" target="_blank">
+                    QuantumEdge Technologies
                   </a>
                   .
                 </p>
               </div>
 
-              <div className="col-lg-6 col-md-6 col-sm-6">
+              {/* <div className="col-lg-6 col-md-6 col-sm-6">
                 <ul>
                   <li>
                     <Link href="/privacy-policy">Privacy Policy</Link>
@@ -163,7 +144,7 @@ const Footer = () => {
                     <Link href="/terms-conditions">Terms & Conditions</Link>
                   </li>
                 </ul>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

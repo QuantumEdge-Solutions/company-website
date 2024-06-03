@@ -48,10 +48,10 @@ const NavbarFour = () => {
             <nav className="navbar navbar-expand-md navbar-light">
               <Link href="/" className="navbar-brand">
                 <img
-                  src="/images/quantum-logo-2.png"
+                  src="/images/qe.svg"
                   className="optional-logo"
                   alt="logo"
-                  style={{ width: "70px" }}
+                  style={{ width: "100px" }}
                 />
               </Link>
 

@@ -13,7 +13,7 @@ const Projects = () => {
           </div>
         </div>
 
-        <div className="container-fluid">
+        <div className="container-fluid" style={{ maxHeight: "650px" }}>
           <Swiper
             navigation={true}
             spaceBetween={25}
