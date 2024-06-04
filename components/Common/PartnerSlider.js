@@ -7,6 +7,12 @@ const PartnerSlider = () => {
     <>
       <div className="partner-section ptb-110" style={{"backgroundColor": "#dee4f3"}}>
         <div className="container">
+        <div className="section-title">
+            <h2>Our Proud Partners</h2>
+            <p>
+              We are honored to collaborate with these forward-thinking organizations
+            </p>
+          </div>
           <Swiper
             spaceBetween={30}
             autoplay={{
@@ -59,6 +65,30 @@ const PartnerSlider = () => {
               <div className="single-partner-item">
                 <a href="#" target="_blank" rel="noreferrer">
                   <img src="/images/partner/carecloud.png" alt="image" />
+                </a>
+              </div>
+            </SwiperSlide>
+
+            <SwiperSlide>
+              <div className="single-partner-item">
+                <a href="#" target="_blank" rel="noreferrer">
+                  <img src="/images/partner/nomor.png" alt="image" />
+                </a>
+              </div>
+            </SwiperSlide>
+
+            <SwiperSlide>
+              <div className="single-partner-item">
+                <a href="#" target="_blank" rel="noreferrer">
+                  <img src="/images/partner/apify.png" alt="image" />
+                </a>
+              </div>
+            </SwiperSlide>
+
+            <SwiperSlide>
+              <div className="single-partner-item">
+                <a href="#" target="_blank" rel="noreferrer">
+                  <img src="/images/partner/myscale.jpeg" alt="image" />
                 </a>
               </div>
             </SwiperSlide>

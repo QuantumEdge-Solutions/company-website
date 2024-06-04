@@ -9,8 +9,8 @@ const BlogPost = () => {
           <div className="section-title">
             <h2>Our Recent News</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Engage with stories, tips, and insights from our team, 
+              crafted to enrich your understanding and spark your curiosity in the tech world.
             </p>
           </div>
 
