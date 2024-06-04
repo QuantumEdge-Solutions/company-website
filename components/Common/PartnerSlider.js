@@ -8,7 +8,7 @@ const PartnerSlider = () => {
       <div className="partner-section ptb-110" style={{"backgroundColor": "#dee4f3"}}>
         <div className="container">
           <Swiper
-            spaceBetween={50}
+            spaceBetween={30}
             autoplay={{
               delay: 5000,
               disableOnInteraction: true,
@@ -29,7 +29,7 @@ const PartnerSlider = () => {
               },
             }}
             modules={[Autoplay]}
-            className="partner-slide"
+            className="partner-slides"
           >
             <SwiperSlide>
               <div className="single-partner-item">
