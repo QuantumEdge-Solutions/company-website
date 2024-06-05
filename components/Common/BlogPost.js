@@ -32,21 +32,21 @@ const BlogPost = () => {
                   <div className="entry-meta">
                     <ul>
                       <li>
-                        <Link href="/blog">Admin</Link>
+                        <Link href="/blog">Usama Jamil</Link>
                       </li>
-                      <li>March 10, 2020</li>
+                      <li>June 5, 2024</li>
                     </ul>
                   </div>
 
                   <h3>
                     <Link href="/blog-details">
-                      Making Peace With The Feast Or Famine Of Freelancing
+                    Web scraping with Cheerio in 2024
+
                     </Link>
                   </h3>
 
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod...
+                  The ultimate guide to web scraping with Cheerio: from basic to advanced.
                   </p>
 
                   <Link href="/blog-details" className="learn-more-btn">
