@@ -17,8 +17,8 @@ const Footer = () => {
               >
                 <div className="logo">
                   <Link href="/">
-                    <img src="/images/qe.svg" alt="image" 
-                    style={{width: "70px"}}/>
+                    <img src="/images/new3-01.svg" alt="image" 
+                    style={{width: "100px"}}/>
                   </Link>
                   <p style={{paddingRight: "0px"}}>
                   Transforming your vision with cutting-edge technology, we specialize in tailored software development and 

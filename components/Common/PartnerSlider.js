@@ -80,7 +80,7 @@ const PartnerSlider = () => {
             <SwiperSlide>
               <div className="single-partner-item">
                 <a href="#" target="_blank" rel="noreferrer">
-                  <img src="/images/partner/apify.png" alt="image" />
+                  <img src="/images/partner/Apify-logo.svg" alt="image" />
                 </a>
               </div>
             </SwiperSlide>
