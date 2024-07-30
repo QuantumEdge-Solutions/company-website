@@ -43,7 +43,7 @@ const Index = () => {
           maxHeight: "65vh",
           border: "none",
           display: "block",
-          borderRadius: "10px",
+          borderRadius: "20px",
           opacity: 1,
           transition: "opacity 0.2s ease-in-out 0s",
           userSelect: "none",
