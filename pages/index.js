@@ -37,7 +37,7 @@ const Index = () => {
           position: "fixed",
           bottom: "70px",
           right: "20px",
-          height: "600px",
+          height: "450px",
           width: "350px",
           maxWidth: "90vw",
           maxHeight: "65vh",
