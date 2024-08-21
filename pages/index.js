@@ -31,7 +31,7 @@ const Index = () => {
       <Footer />
 
       <iframe
-        src="https://quantumedge-bot.netlify.app/chatbot/quantum-edge/"
+        src="https://quantumedge-bot.netlify.app/chatbot/quantum_edge/"
         style={{
           zIndex: 999,
           position: "fixed",
