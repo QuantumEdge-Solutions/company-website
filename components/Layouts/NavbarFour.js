@@ -48,7 +48,7 @@ const NavbarFour = () => {
             <nav className="navbar navbar-expand-md navbar-light">
               <Link href="/" className="navbar-brand">
                 <img
-                  src="/images/black-logo.svg"
+                  src="/images/black-Logo.svg"
                   className="optional-logo"
                   alt="logo"
                   style={{ width: "150px" }}
