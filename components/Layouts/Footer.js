@@ -17,7 +17,7 @@ const Footer = () => {
               >
                 <div className="logo">
                   <Link href="/">
-                    <img src="/images/new3-01.svg" alt="image" 
+                    <img src="/images/logo.svg" alt="image"
                     style={{width: "100px"}}/>
                   </Link>
                   <p style={{paddingRight: "0px"}}>

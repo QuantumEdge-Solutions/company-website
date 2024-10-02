@@ -39,7 +39,7 @@ const MainBanner = () => {
                   <Link href="https://calendly.com/saeedarshad/" className="btn btn-primary" target="_blank">
                     Book a Call
                   </Link>
-                  <Link href="mailto:m.saeedarshad95@gmail.com" className="btn btn-secondary" style={{'margin-left': '0.5rem'}}>
+                  <Link href="mailto:m.saeedarshad95@gmail.com" className="btn btn-secondary" style={{'marginLeft': '0.5rem'}}>
                     Contact Us
                   </Link>
                 </div>
