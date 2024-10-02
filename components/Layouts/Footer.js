@@ -110,7 +110,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <span>Email:</span>
-                    quantumedge@gmail.com
+                    threepointo.ai@gmail.com@
                   </li>
                   <li>
                     <span>Phone:</span>
@@ -127,9 +127,9 @@ const Footer = () => {
             <div className="row align-items-center">
               <div className="col-lg-6 col-md-6 col-sm-6">
                 <p>
-                  Copyright &copy;{currentYear} QuantumEdge Technologies. All Rights Reserved{" "}
-                  <a href="https://quantumedge.netlify.app/" target="_blank">
-                    QuantumEdge Technologies
+                  Copyright &copy;{currentYear} 3PointO Technologies. All Rights Reserved{" "}
+                  <a href="https://3point0.tech/" target="_blank">
+                    3PointO Technologies
                   </a>
                   .
                 </p>

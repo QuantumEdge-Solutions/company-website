@@ -23,12 +23,12 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <meta property="og:title" content="Quantum Edge Technologies" />
+        <meta property="og:title" content="3PointO Technologies" />
         <meta property="og:description" content="We provide AI solutions" />
-        <meta property="og:image" content="https://quantumedge.netlify.app/images/IconOnly_Transparent.png" />
-        <meta property="og:url" content="https://quantumedge.netlify.app/" />
+        <meta property="og:image" content="https://3point0.tech/images/IconOnly_Transparent.png" />
+        <meta property="og:url" content="https://3point0.tech/" />
         <meta property="og:type" content="website" />
-        <title>Quantum Edge Technologies</title>
+        <title>3Point0 Technologies</title>
       </Head>
 
       <Component {...pageProps} />

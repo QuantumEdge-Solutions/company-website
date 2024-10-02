@@ -34,7 +34,7 @@ const Testimonials = () => {
                   <span>Founder at TaptoConnect</span>
                 </div>
                 <p>
-                The QuantumEdge team was highly communicative, providing regular updates and seeking feedback. They invested time to understand my vision and requirements, which was reflected in the final product.
+                The 3Point0 team was highly communicative, providing regular updates and seeking feedback. They invested time to understand my vision and requirements, which was reflected in the final product.
                 I was impressed with their work quality and customer service and would confidently recommend them for AI solutions.
                 </p>
                 <div className="rating">
@@ -55,7 +55,7 @@ const Testimonials = () => {
                   <span>CEO at Visual Stories</span>
                 </div>
                 <p>
-                The project I received from QuantumEdge was outstanding, exactly what I asked for. They showed a high level of professionalism, thoroughly understanding and meeting the requirements. 
+                The project I received from 3Point0 was outstanding, exactly what I asked for. They showed a high level of professionalism, thoroughly understanding and meeting the requirements.
                 I look forward to collaborating with them on multiple future projects. I would definitely recommend their services to others.
                 </p>
                 <div className="rating">
@@ -75,8 +75,7 @@ const Testimonials = () => {
                   <h3>Max Aronsson</h3>
                   <span>CIO at Nomor</span>
                 </div>
-                <p>
-                Quantum excels in translating intricate designs into intuitive user interfaces, consistently prioritizing user experience. 
+                <p>3Point0 excels in translating intricate designs into intuitive user interfaces, consistently prioritizing user experience.
                 Their problem-solving skills and collaboration with cross-functional teams underscore their effectiveness in delivering seamless projects.
                 </p>
                 <div className="rating">

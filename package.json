@@ -1,7 +1,7 @@
 {
-    "name": "bariton",
+    "name": "3point0",
     "version": "2.2.0",
-    "description": "Bariton - IT Machine Learning React Next Template",
+    "description": "3PointO -AI Powered Software Solutions",
     "main": "index.js",
     "scripts": {
         "dev": "next dev",

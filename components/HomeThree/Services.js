@@ -9,7 +9,7 @@ const Services = () => {
           <div className="section-title">
             <h2>We Offer Professional Solutions</h2>
             <p>
-              QuantumEdge Technologies excels in AI solutions and brings expertise in the following domains:
+              3Point0 Technologies excels in AI solutions and brings expertise in the following domains:
             </p>
           </div>
           
