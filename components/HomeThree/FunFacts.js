@@ -38,7 +38,7 @@ const FunFacts = () => {
             <h3>Have any question about us?</h3>
             <p>Don't hesitate to contact us.</p>
 
-            <Link href="mailto:m.saeedarshad95@gmail.com" className="btn btn-primary">
+            <Link href="mailto:contact@3point0.tech" className="btn btn-primary">
               Contact Us
             </Link>
           </div>

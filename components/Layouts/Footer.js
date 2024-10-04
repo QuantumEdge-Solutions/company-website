@@ -110,7 +110,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <span>Email:</span>
-                    threepointo.ai@gmail.com@
+                    contact@3point0.tech
                   </li>
                   <li>
                     <span>Phone:</span>
