@@ -1,12 +1,12 @@
 <svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_126_1563)">
-<path d="M128.009 0H96.0156V32H128.009V128H96.0156V160H128.009L160.002 128V101.333V61.3333V32L128.009 0Z" fill="#FAFAFA" style="fill:#FAFAFA;fill:color(display-p3 0.9804 0.9804 0.9804);fill-opacity:1;"/>
-<path d="M31.993 0H63.9863V32H31.993V128H63.9863V160H31.993L-0.000320435 128V100L15.9968 80L-0.000320435 60V32L31.993 0Z" fill="#FAFAFA" style="fill:#FAFAFA;fill:color(display-p3 0.9804 0.9804 0.9804);fill-opacity:1;"/>
-<rect x="63.9902" y="64" width="31.9943" height="32.0008" fill="#FAFAFA" style="fill:#FAFAFA;fill:color(display-p3 0.9804 0.9804 0.9804);fill-opacity:1;"/>
-</g>
-<defs>
-<clipPath id="clip0_126_1563">
-<rect width="160.001" height="160" fill="white" style="fill:white;fill-opacity:1;"/>
-</clipPath>
-</defs>
+  <g clip-path="url(#clip0_126_1563)">
+    <path d="M128.009 0H96.0156V32H128.009V128H96.0156V160H128.009L160.002 128V101.333V61.3333V32L128.009 0Z" fill="#3498DB" style="fill:#3498DB;fill-opacity:1;"/>
+    <path d="M31.993 0H63.9863V32H31.993V128H63.9863V160H31.993L-0.000320435 128V100L15.9968 80L-0.000320435 60V32L31.993 0Z" fill="#3498DB" style="fill:#3498DB;fill-opacity:1;"/>
+    <rect x="63.9902" y="64" width="31.9943" height="32.0008" fill="#3498DB" style="fill:#3498DB;fill-opacity:1;"/>
+  </g>
+  <defs>
+    <clipPath id="clip0_126_1563">
+      <rect width="160.001" height="160" fill="white" style="fill:white;fill-opacity:1;"/>
+    </clipPath>
+  </defs>
 </svg>
